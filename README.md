@@ -1,4 +1,4 @@
-# Fält för att spara hsa-id för personer/enheter i admin"
+# Fält för att spara HSA-ID för personer/enheter i admin"
 
 ## Hur man använder Region Hallands plugin "region-halland-acf-page-personer-enheter"
 
