@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Page Personer Enheter
 	Description: ACF-fält för personer/enheter
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Roland Hydén
 	License: MIT
 	Text Domain: regionhalland
@@ -45,7 +45,7 @@
 			        ),
 			        1 => array(
 			        	'key' => 'field_1000135',
-					    'label' => 'Enhet (Löpnummer HSA-ID = bokstaven F följt av 5 siffror)',
+					    'label' => 'Enhet (Löpnummer HSA-ID = bokstaven O eller F följt av 5 siffror)',
 					    'name' => 'name_1000136',
 					    'type' => 'text',
 					    'instructions' => '',
