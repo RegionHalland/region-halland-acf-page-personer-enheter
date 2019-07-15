@@ -5,6 +5,15 @@
 Nedan följer instruktioner hur du kan använda pluginet "region-halland-acf-page-personer-enheter".
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
+
 ## Användningsområde
 
 Denna plugin skapar fält i admin för att spara HSA-ID för personer/enheter
@@ -51,7 +60,29 @@ OBS! Justera så att du hämtar aktuell version.
 ```
 
 
+## Hämta ut fältet "person" via Blade
+
+```sh
+<div>
+  {{ get_region_halland_acf_page_personer_enheter_person() }}
+</div>
+```
+
+
+## Hämta ut fältet "enhet" via Blade
+
+```sh
+<div>
+  {{ get_region_halland_acf_page_personer_enheter_enhet() }}
+</div>
+```
+
+
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterat med information om licensmodell
+- Beskrivning i readme hur man hämtar ut respektive fält
 
 ### 1.0.1
 - Ändrad beskrivning av enheter
