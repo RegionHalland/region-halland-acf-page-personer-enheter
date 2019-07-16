@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Page Personer Enheter
 	Description: ACF-fält för personer/enheter
-	Version: 1.1.0
+	Version: 1.2.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland
